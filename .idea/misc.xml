@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="braille_test" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="braille_test" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (braille)" project-jdk-type="Python SDK" />
   <component name="PythonCompatibilityInspectionAdvertiser">
     <option name="version" value="3" />
   </component>
